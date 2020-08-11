@@ -5,7 +5,7 @@
     "description": "Enhances text rendering to approximate system ClearType. Free and Open Source.",
     "homepage_url": "https://github.com/vsalvino/chromium-texthint",
     "icons": {
-        "300": "icon.svg"
+        "128": "icon-128.png"
     },
     "content_scripts": [
         {
