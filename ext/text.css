@@ -1,0 +1,4 @@
+* {
+    -webkit-font-smoothing: "auto";
+    -webkit-text-stroke-width: calc(calc(40px - 1em) / 170);
+}
