@@ -2,8 +2,7 @@
     "name": "Text Hinting",
     "version": "1.0.0",
     "manifest_version": 2,
-    "description": "Enhances text rendering to approximate system ClearType.",
-    "category": "Productivity",
+    "description": "Enhances text rendering to approximate system ClearType. Free and Open Source.",
     "homepage_url": "https://github.com/vsalvino/chromium-texthint",
     "icons": {
         "300": "icon.svg"
