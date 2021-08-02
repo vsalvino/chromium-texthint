@@ -1,6 +1,12 @@
 Text Hinting (Chromium Extension)
 =================================
 
+**NOTE:** This repository is now archived and no longer maintained. Microsoft
+has recently added native ClearType support to their Chromium fork (Edge
+version 92) and as a result this extension is no longer needed.
+
+---
+
 Chromium-based browsers intentionally weaken the font rendering on Windows. As
 to why, I have no idea. This is an ultra simple extension which tweaks the text
 to look almost on par with how the system normally renders ClearType text.
